@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 from colajob import models
 
 
@@ -30,3 +31,5 @@ jb.title = 'google-scientist'
 
 jb.schematize()
 jb.doc
+=======
+>>>>>>> 2dc68f9a2380dd4fdebb3bf3aa9d9e2ab98034b9
