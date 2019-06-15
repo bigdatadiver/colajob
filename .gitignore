@@ -1,3 +1,5 @@
 # Don't track content of these folders
 Dataset/
 *checkpoint.ipynb
+.vscode
+colajob.code-workspace
