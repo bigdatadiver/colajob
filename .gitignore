@@ -1,11 +1,6 @@
 # Don't track content of these folders
 Dataset/
-<<<<<<< HEAD
 colajob.code-workspace
 .vscode/settings.json
 jupyter/.ipynb_checkpoints/colajob-checkpoint.ipynb
-=======
-*checkpoint.ipynb
-.vscode
-colajob.code-workspace
->>>>>>> 0a7c282954f469b2ce00f6ee625a51f0859830f8
+.idea\*
